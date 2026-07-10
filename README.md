@@ -46,9 +46,8 @@ This project was primarily created for my own OpenGL coursework and personal wor
 
 > Add a screenshot here after uploading one.
 
-```
 /screenshots/main.png
-```
+
 
 ---
 
