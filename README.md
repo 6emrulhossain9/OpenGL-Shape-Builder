@@ -45,8 +45,7 @@ This project was primarily created for my own OpenGL coursework and personal wor
 # 🖥️ Screenshot
 
 > Add a screenshot here after uploading one.
-
-/screenshots/main.png
+![Screenshot](screenshots/main.png)
 
 
 ---
