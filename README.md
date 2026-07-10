@@ -69,7 +69,7 @@ cd opengl-shape-generator
 Run the application:
 
 ```bash
-python tool.py
+python OpenGL_Shape_Generator.py
 ```
 
 ---
