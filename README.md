@@ -45,7 +45,7 @@ This project was primarily created for my own OpenGL coursework and personal wor
 # 🖥️ Screenshot
 
 ![Screenshot](screenshots/main.png)
-
+![Screenshot](screenshots/shapes&code.png)
 
 ---
 
